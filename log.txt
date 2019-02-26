@@ -1,3 +1,21 @@
+
+Yixu Chen
+627008228
+github: https://github.com/Easoncyx/hw-acceptance-unit-test-cycle.git
+Heroku: https://git.heroku.com/agile-hamlet-21536.git
+
+
+Rspec:
+.....
+
+Finished in 0.05039 seconds (files took 1.77 seconds to load)
+5 examples, 0 failures
+
+Coverage report generated for RSpec to /Users/yixuchen/StudyOnMac/SoftwareEngineering/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 39 / 54 LOC (72.22%) covered.
+
+
+
+Cucumber:
 Using the default profile...
 Feature: add or delete movies
   As a movie buff
