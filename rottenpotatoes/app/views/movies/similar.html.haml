@@ -16,3 +16,5 @@
         %td= movie.release_date
         %td= movie.director
         %td= link_to "More about #{movie.title}", movie_path(movie)
+%p
+= link_to 'Back to movie list', movies_path

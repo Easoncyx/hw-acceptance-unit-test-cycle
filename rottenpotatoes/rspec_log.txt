@@ -1,0 +1,6 @@
+.....
+
+Finished in 0.07123 seconds (files took 2.52 seconds to load)
+5 examples, 0 failures
+
+Coverage report generated for RSpec to /Users/yixuchen/StudyOnMac/SoftwareEngineering/3_hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 39 / 54 LOC (72.22%) covered.
