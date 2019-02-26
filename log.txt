@@ -2,7 +2,7 @@
 Yixu Chen
 627008228
 github: https://github.com/Easoncyx/hw-acceptance-unit-test-cycle.git
-Heroku: https://git.heroku.com/agile-hamlet-21536.git
+Heroku: https://agile-hamlet-21536.herokuapp.com/
 
 
 Rspec:
